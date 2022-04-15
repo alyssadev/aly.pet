@@ -1,4 +1,4 @@
 <b>Wasteland</b>
-You stand on a vast sandy desert plain with no landmarks around.
-There is nothing in sight in any direction, except sand and sky above it.
-You wonder what troubles lie ahead.
+You stand on a vast sandy desert plain with no landmarks around.<br>
+There is nothing in sight in any direction, except sand and sky above it.<br>
+You wonder what troubles lie ahead.<br>
